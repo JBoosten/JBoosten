@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JBoosten
 - 👀 I’m interested in webdesign and 3D Printing
-- 🌱 I’m currently learning: webdesign (html & CSS)
+- 🌱 I’m currently learning: webdesign (html & CSS) - JavaScript & jQuery
 - 📫 How to reach me; mail: boosten.joseph@gmail.com 
 
 <!---
